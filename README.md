@@ -6,4 +6,6 @@ Jest to program zarządzający strukturami dynamicznymi (stosem z kolejkami FIFO
 ### Dodatkowe informacje
 W celu zapoznania się ze szczegółami zapraszam do przejrzenia [dokumentacji projektu](pri-projekt-3/Dokumentacja.docx).
 
+Przykładowy plik z danymi: [dane.bin](pri-projekt-3/dane.bin)
+
 *Migrated from Bitbucket.*
